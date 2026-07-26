@@ -1,0 +1,4 @@
+#Background Color of HTML
+<body style="background-color: lightblue;">
+    <h1>Welcome to My Website</h1>
+</body>
